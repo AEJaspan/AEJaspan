@@ -2,15 +2,15 @@
 
 I've decided to make the transition over to GitHub, so forgive me if this area is a little empty for now!
 
-You can find my GitLab [here](https://gitlab.cern.ch/ajaspan) if youre interested (although it's mostly all private i'm afraid 😅)
+You can find my GitLab [here](https://gitlab.cern.ch/ajaspan) if you're interested (although it's mostly all private I'm afraid 😅)
 
-## Abount me: 
+## About me: 
 
 I'm interested in Data Science, and particularly in fun, interesting applications of machine learning!
 
 I’m currently looking to get my first job in DS, having come to the end of my PhD in particle-physics. 
 
-During this PhD, I worked on data analysis with the full ATLAS Run II data set, concisting of around 1 × 10¹⁶ proton-proton collisions, so some seriously "Big Data"!!
+During this PhD, I worked on data analysis with the full ATLAS Run II data set, consisting of around 1 × 10¹⁶ proton-proton collisions, so some seriously "Big Data"!!
 
 ## 📫 How to reach me 
 
