@@ -2,11 +2,11 @@
 
 I've decided to make the transition over to GitHub, so forgive me if this area is a little empty for now!
 
-You can find my GitLab [here](https://gitlab.cern.ch/ajaspan) if you're interested (although it's mostly all private I'm afraid 😅)
+You can find my GitLab [here](https://gitlab.cern.ch/ajaspan) if you're interested (although i'm afraid that the work is all private due to ATLAS rules)
 
 ## About me: 
 
-I'm interested in Data Science, and particularly in fun, interesting applications of machine learning!
+I'm interested in Data Science, and particularly in fun, novel applications of machine learning!
 
 I’m currently looking to get my first job in DS, having come to the end of my PhD in particle-physics. 
 
